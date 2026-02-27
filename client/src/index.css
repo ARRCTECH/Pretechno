@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+/* a:link {
+  color: blue;
+  text-decoration: underline;
+  cursor: auto;
+}
+a:visited {
+  color: purple;
+  text-decoration: underline;
+  cursor: auto;
+}
+a:active {
+  color: red;
+}
+b, strong { font-weight: bold; }
+i, em, cite, dfn, var { font-style: italic; }
+code, kbd, samp, pre { font-family: monospace; }
+small { font-size: smaller; }
+sub { vertical-align: sub; font-size: smaller; }
+sup { vertical-align: super; font-size: smaller; }
+u, ins { text-decoration: underline; }
+s, strike, del { text-decoration: line-through; }
+mark { background-color: yellow; color: black; }
+html { display: block; }
+body {
+  display: block;
+  margin: 8px;
+}
+div, article, aside, footer, header, nav, section,
+main, figure, figcaption, details, summary {
+  display: block;
+}
+blockquote {
+  display: block;
+  margin: 1em 40px;
+}
+p, dl, menu, ol, ul {
+  display: block;
+  margin: 1em 0;
+}
+dd { margin-left: 40px; }
+h1 { font-size: 2em; margin: .67em 0; font-weight: bold; }
+h2 { font-size: 1.5em; margin: .83em 0; font-weight: bold; }
+h3 { font-size: 1.17em; margin: 1em 0; font-weight: bold; }
+h4 { font-size: 1em; margin: 1.33em 0; font-weight: bold; }
+h5 { font-size: .83em; margin: 1.67em 0; font-weight: bold; }
+h6 { font-size: .67em; margin: 2.33em 0; font-weight: bold; }
+ul {
+  list-style-type: disc;
+  padding-left: 40px;
+}
+ol {
+  list-style-type: decimal;
+  padding-left: 40px;
+}
+li { display: list-item; }
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+caption {
+  display: table-caption;
+  text-align: center;
+}
+thead { display: table-header-group; }
+tbody { display: table-row-group; }
+tfoot { display: table-footer-group; }
+tr { display: table-row; }
+td, th {
+  display: table-cell;
+  vertical-align: inherit;
+}
+th {
+  font-weight: bold;
+  text-align: center;
+}
+img { display: inline-block; }
+video, audio, canvas { display: inline-block; }
+form { display: block; }
+fieldset {
+  display: block;
+  margin: 0 2px;
+  padding: .35em .75em .625em;
+  border: 2px groove gray;
+}
+legend {
+  display: block;
+  padding: 0 2px;
+}
+label { cursor: default; }
+button, input, select, textarea {
+  font-family: inherit;
+}
+span, q, map, output {
+  display: inline;
+}
+q::before { content: open-quote; }
+q::after { content: close-quote; }
+head, title, meta, link, style, script, param, track, template {
+  display: none;
+}
+.hide-scrollbar {
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none; 
+} */
